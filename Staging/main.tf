@@ -1,0 +1,3 @@
+module "modulestaging" {
+  source = "../nginx"
+}
